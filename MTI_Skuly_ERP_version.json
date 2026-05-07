@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/khoushiknath/MTI-Skuly-ERP-Releases/releases/download/v1.1.8/MTI_Skuly_ERP_Installer.exe",
-  "version": "1.1.8",
+  "version": "1.1.9",
+  "download_url": "https://github.com/khoushiknath/MTI-Skuly-ERP-Releases/releases/download/v1.1.9/MTI_Skuly_ERP_Installer.exe",
   "mandatory": false,
-  "release_notes": "Automated release v1.1.8"
+  "release_notes": "Automated release v1.1.9"
 }
